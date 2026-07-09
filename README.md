@@ -1,6 +1,6 @@
 # Fluid Viscous Damper for UAV Payload Vibration Attenuation
 
-## Project Background
+## Overview 
 
 This project was carried out by a two-member team as part of the TN IMPACT initiative during my undergraduate studies at Coimbatore Institute of Technology.
 
