@@ -2,8 +2,6 @@
 
 ![Exploded Assembly](Images/assembly_exploded_view.png)
 
-## Overview 
-
 ## Overview
 
 UAV payloads are highly sensitive to vibration, which can reduce image quality and sensor performance. This project focused on the design and analysis of a compact fluid viscous damper capable of attenuating vibrations in the 20–300 Hz operating range.
