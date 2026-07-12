@@ -48,6 +48,40 @@ The structural integrity of the proposed damper was evaluated using static struc
 
 ![Static Structural Analysis](Images/static_structural_analysis.png)
 
+### 2. Modal Analysis
+
+Modal analysis was performed to determine the natural frequencies and corresponding mode shapes of the proposed damper. This analysis helped evaluate the dynamic characteristics of the design and identify potential resonance conditions.
+
+![Modal Analysis](Images/modal_analysis.png)
+
+### 3. Harmonic Response Analysis
+
+Harmonic response analysis was carried out to evaluate the behaviour of the damper under varying excitation frequencies. The results were used to study the vibration response and assess the effectiveness of the proposed design.
+
+![Harmonic Response Analysis](Images/harmonic_response_analysis.png)
+
+### 4. Fatigue Analysis
+
+Fatigue analysis was performed to estimate the durability of the proposed damper under repeated loading conditions. The simulation provided an indication of the component's ability to withstand cyclic stresses during operation.
+
+![Fatigue Analysis](Images/fatigue_analysis.png)
+
+### 5. CFD Analysis
+
+Computational Fluid Dynamics (CFD) analysis was conducted to study the flow characteristics of silicone oil through the segmented spiral orifice. Pressure and velocity distributions were analysed to better understand the damping behaviour of the proposed design.
+
+#### Pressure Distribution
+
+![Pressure Distribution](Images/cfd_pressure_distribution.png)
+
+#### Velocity Distribution
+
+![Velocity Distribution](Images/cfd_velocity_distribution.png)
+
+## Conclusion
+
+The proposed fluid viscous damper was successfully designed and evaluated using CAD, finite element analysis and CFD. The project provided valuable insights into vibration attenuation, structural behaviour and engineering design validation for UAV payload applications.
+
 ## Key Learning
 
 This project gave me practical experience in taking a mechanical component from concept to simulation. More importantly, it helped me understand how CAD design decisions influence structural behaviour and how simulation can be used to validate engineering designs before manufacturing.
