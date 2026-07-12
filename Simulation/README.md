@@ -1,12 +1,7 @@
 # Simulation
 
-This folder contains the finite element analyses performed during the project.
+This folder contains supporting simulation media from the project.
 
-Contents include:
+## Available Files
 
-- Static Structural Analysis
-- Modal Analysis
-- Harmonic Response Analysis
-- Fatigue Analysis
-
-Simulation screenshots and result files will be added as the repository is updated.
+- Working_Animation.mp4 – Demonstrates the simulated behaviour of the proposed fluid viscous damper.
