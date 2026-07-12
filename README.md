@@ -40,6 +40,14 @@ After finalising the concept, the complete assembly was modelled in CREO. The CA
 
 Based on the simulation results, the geometry was refined to improve structural stability and vibration attenuation while keeping the design compact.
 
+## Engineering Analysis
+
+### 1. Static Structural Analysis
+
+The structural integrity of the proposed damper was evaluated using static structural analysis in ANSYS Workbench. The simulation was used to study stress distribution under the applied loading conditions and verify that the design remained structurally safe.
+
+![Static Structural Analysis](Images/static_structural_analysis.png)
+
 ## Software Used
 
 - CREO Parametric
