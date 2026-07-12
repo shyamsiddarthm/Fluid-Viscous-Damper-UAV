@@ -8,6 +8,19 @@ This project was carried out by a two-member team as part of the TN IMPACT initi
 
 The objective was to design a compact fluid viscous damper capable of reducing vibrations transmitted to UAV payloads operating in the 20–300 Hz frequency range.
 
+## Design Specifications
+
+| Parameter | Value |
+|------------|-------|
+| Overall Length | 97 mm |
+| Overall Diameter | 28.5 mm |
+| Fluid Chamber Length | 35 mm |
+| Stroke Length | 24 mm |
+| Piston Diameter | 24 mm |
+| Working Fluid | Silicone Oil |
+| Team Size | 2 |
+| Software Used | CREO Parametric, ANSYS Workbench, MATLAB |
+
 ## My Role
 
 The project was completed collaboratively, with responsibilities divided between both team members.
