@@ -48,15 +48,6 @@ The structural integrity of the proposed damper was evaluated using static struc
 
 ![Static Structural Analysis](Images/static_structural_analysis.png)
 
-## Analysis Performed
-
-- Static Structural Analysis
-- Modal Analysis
-- Harmonic Response Analysis
-- Fatigue Analysis
-
-These analyses helped evaluate stress distribution, deformation, natural frequencies, vibration response and fatigue behaviour of the proposed design.
-
 ## Key Learning
 
 This project gave me practical experience in taking a mechanical component from concept to simulation. More importantly, it helped me understand how CAD design decisions influence structural behaviour and how simulation can be used to validate engineering designs before manufacturing.
