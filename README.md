@@ -48,13 +48,6 @@ The structural integrity of the proposed damper was evaluated using static struc
 
 ![Static Structural Analysis](Images/static_structural_analysis.png)
 
-## Software Used
-
-- CREO Parametric
-- ANSYS Workbench
-- MATLAB
-- Microsoft Excel
-
 ## Analysis Performed
 
 - Static Structural Analysis
